@@ -12,7 +12,8 @@ Neste notebook, vamos explorar dados de logistica, analisar dados de entregar de
 * **Ferramentas utilizadas**
 
  ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
- ![Colab](https://github.com/user-attachments/assets/132fb06f-8613-40ce-83ec-441a4eaa2bec)
+ ![Colab](https://img.shields.io/badge/Colab-orange?style=flat&logo=googlecolab&logoColor=%23F9AB00
+)
 
 
 
